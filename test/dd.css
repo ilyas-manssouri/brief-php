@@ -1,0 +1,20 @@
+body{
+    background-image: url(mdina.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    border-radius: 3em;
+    border-style: solid ;
+    height: 3em;
+    width: 19em;
+    display: flex;
+	flex-wrap: nowrap;
+	justify-content: espace entre;
+	align-items: centre;
+	align-content: espace entre;
+  
+}
+.dib{
+    margin-left: 31em;
+}
